@@ -8,17 +8,62 @@ h3{
     font-style: italic;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
-ul {
-    padding: 40px;
-    background-color: #00cdd5;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    width: 400px;
-}
+
+
 h4 {
     font-style: bold;
     text-decoration: underline;
-    color:#00cdd5;
+    color: black;
+    text-align: center;
 }
+.academica {
+    padding: 20px;
+    background-color:lightblue;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 5px coral;
+}
+.experiencia {
+    padding: 20px;
+    background-color:red;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-bottom: 20px;
+    /* ejercicio css parte 1 */
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px green;
+}
+.portfolio {
+    padding: 20px;
+    background-color:green;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-bottom: 20px;
+    /* ejercicio css parte 1 */
+    border-radius: 40px;
+    box-shadow: 10px 10px 5px red;
+}
+.contacto{
+    padding: 20px;
+    background-color:yellow;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    /* estos dos ultimos son del ejercicio de css parte 1 */
+    border-radius: 40px;
+    box-shadow: 10px 10px 5px blue;
+}
+/* ejercicio css parte 1 */
+.fono, .mochi, .icons, .nionio {
 
+text-align: center;
+font-size: 50px;
+}
